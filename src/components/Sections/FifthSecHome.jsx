@@ -45,7 +45,7 @@ export default function FifthSecHome() {
             className="rounded-lg max-h-80 object-cover w-full"
           />
           <p className="font-bold text-lg">Bus Package</p>
-          <p>ook your quality vehicle quickly for an hour or all day!</p>
+          <p>ok your quality vehicle quickly for an hour or all day!</p>
         </div>
       </div>
     </div>
