@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Podcast";
+  src: url("/assets/fonts/Podcast.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-podcast {
+  font-family: "Podcast";
+}
